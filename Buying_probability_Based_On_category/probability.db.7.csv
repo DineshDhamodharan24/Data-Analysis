@@ -1,0 +1,9 @@
+CategoryID,CategoryName,Description,total_qty,Total_quantity
+1,Beverages,"Soft drinks, coffees, teas, beers, and ales",9532,51317
+2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",5298,
+3,Confections,"Desserts, candies, and sweet breads",7906,
+4,Dairy Products,Cheeses,9149,
+5,Grains/Cereals,"Breads, crackers, pasta, and cereal",4562,
+6,Meat/Poultry,Prepared meats,4199,
+7,Produce,Dried fruit and bean curd,2990,
+8,Seafood,Seaweed and fish,7681,
